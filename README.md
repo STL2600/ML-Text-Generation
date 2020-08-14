@@ -1,0 +1,4 @@
+ - Build the docker image: `docker build -t gpt-simple .`
+ - Train the model `docker run -it --rm -v /path/to/workspace:/home/gpt gpt-simple finetune train.txt`
+ - Generate output `docker run -it --rm -v /path/to/workspace:/home/gpt gpt-simple generate`
+ - See [here](https://github.com/minimaxir/gpt-2-simple) for more command options 
