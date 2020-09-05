@@ -1,4 +1,7 @@
  - Build the docker image: `docker build -t gpt-simple .`
+ - CD Into one of the example dirs
  - Train the model `docker run -it --rm -v /path/to/workspace:/home/gpt gpt-simple finetune train.txt`
+ - Wait for it to train for a while, then Ctrl-C out of it.  It will make a checkpoint before exiting.
  - Generate output `docker run -it --rm -v /path/to/workspace:/home/gpt gpt-simple generate`
+ - The text will be stored in the `gen` folder.
  - See [here](https://github.com/minimaxir/gpt-2-simple) for more command options 

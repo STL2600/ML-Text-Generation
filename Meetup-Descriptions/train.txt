@@ -1,0 +1,581 @@
+Well going on month *counts fingers* six?... of barracading myself indoors to hide from teeny tiny coughing death germs. It&#39;s easy to get a little stir crazy when none of your imaginary friends can come out and play anymore. I tried having beers with my cats, but their lack of thumbs makes picking up the bottle a challenge. So instead they just knock it over and watch it smash on the ground. I tried action figures, but they are too co-dependant. They need your help to do EVERYTHING. Seriously, you&#39;ve gotta put the little 3D printed beer bottles you make them in their hands. Even before the beer, they can&#39;t stand up by themselves unless you can find some sticky-tack to put on their feet. Action figures are useless as a companion.
+Well, falling back to the old addage of &#34;If you want it done right, make a YouTube video of you doing it, then read all the comments about how you screwed it up.&#34; With that in mind, I got some construction paper, glue, safety scissors, and glitter to set out and build my own friend!
+Seque...seque...seque...
+Bob and I are going to present on rolling your on virtual assistant. We&#39;ll go over what options there are. Why you&#39;d want to go the DIY route instead one from a multi-billion dollar corportation. Plus Bob and I have picked a couple to try out so we&#39;ll cover our experiences with that. What it took to setup. What works and what doesn&#39;t. What says it works in the documentation but won&#39;t freaking compile. What&#39;s made us see red and grow obsessed with making the damn thing works, consuming your entire weekend resulting in you copping out on the description for a meetup post.
+*Takes a deep breath...*
+Anyway... Like I said at the start, viruses are still a thing. We are still going virtual for STL2600 + DC314 this month, so we&#39;ll be on Jitsi like the past months.
+Link: 
+https://meet.jit.si/STL2600Aug
+You never know when that day will come when you need your home to turn into a giant robot and fight of invaders from outer space. So better not to dilly dally when preparing for that date with destiny. Have you ever tried to convert a mid-century ranch into kaiju wrassling megazord? It&#39;s a little more than a weekend project. You need to make sure your junction box can handle the load when you active the interlocks. Connecting the dynotherms isn&#39;t quite as easy as splitting coax to install cable in the bedroom. Then you&#39;ve got to retrofit the furnace to handle the higher infracell levels. MAYBE then, and only then, can you set your mega thrusters to go.
+And then what? You&#39;ve got the slightly-house shaped robot flailing about like it just walked through a spider web it didn&#39;t see. You can&#39;t just turn your house into a giant robot and not have anything controlling it! What, Did you think you were going to be able to hook up your NES controller and pilot the damn thing? I don&#39;t care how good you think you are at Super Mario Bros, unless you are an eSports champion you can&#39;t Konami code your way through a giant robot fight. You gotta give your house brain first. Teach it a little self defense. Make it a &#34;smart house&#34;, if you will.
+And that&#39;s where we are going to start. We&#39;ve all probably had a lot of time on our hands in the recent months. And if you don&#39;t keep busy, you start having delusions of grandeur. And that&#39;s exactly what Bob and I have done. We&#39;ve been having a lot of fun tinkering with Home Assistant, trying to build a secure self hosted home automation system. No I&#39;m not going to say Home Assistant is the most awesomess piece of software ever. (It&#39;s no Windows Solitaire) But it is a lot more versatile than I though going into this project. It&#39;s not all just smart bulbs and thermostats. You can get pretty creative with it. You can set yourself a layer of network security with it, kind of like a makeshift IDS. Or just do some flat out weird shit, who knows? Home Assistant has become my canvas and I am a Home Assistant artiste!
+So join us Friday to see what we&#39;ve come up with. We are still going virtual for STL2600 + DC314 this month, so we&#39;ll be on Jitsi like the past months.
+Link: 
+https://meet.jit.si/STL2600July
+Oops... Tomorrow is the first Friday of the month, isn&#39;t it? Well I guess we better decide on a topic to present on.
+*Spins the rotating disk of potential knowledge...*
+*click*click*click*click*click*click*click*click*...*click*...*click*...*click*...*click*...*click*......*click*......*click*............*click*
+And this months topic is... Wireguard: The New Hotness for VPN.
+Well according to this completely random spin of an imaginary game show wheel, it looks like Bob is going to talk about Wireguard for us. Including the advantages over traditional options like OpenVPN, and how to go about setting it up. Hmm... With a lot of people working remotely still, it seems pretty apt. If you hadn&#39;t just watched me spin this wheel, you might thing we have actually discussed and planned it before hand. Obviously not, since I&#39;m just now remembering to post this post, but it&#39;s nice when we have happy Bob Ross-ian accidents like that. Isn&#39;t it?
+Anyway, since Arch Reactor still isn&#39;t fully open just yet, we are going to continue on with our virtual meetups on Jitsi. Hopefully I&#39;ll see you all there.
+Link: 
+https://meet.jit.si/STL2600June
+Greetings. I hope everyone is still staying healthy and safe with the situation we are all in. It&#39;s important for our sanity while we are all bunkered down waiting for a biological patch to be released to protect our fleshmeats from this nasty piece of malicious wetware, to keep ourselves busy. And since last month our impromptu virtual hangout seemed to be pretty successful, we are going to do it again!
+And just to make things more complicated, we&#39;re going to try and hold a virtual talk this time around. If all goes well, Chris has agreed to present on Format String Exploits. (Hopefully something the conference software won&#39;t be vulnerable to)
+We&#39;ll be holding the event on Jitsi like last month and unless some jackass decides to squat on the URL after this post goes out, it should be at 
+https://meet.jit.si/STL2600May
+Also, after having been through a few Jitsi conference, I&#39;ve found the mobile app to be a lot more reliable than the web interface. Particularly when it comes to larger groups.
+I know this post is last minute, but I don&#39;t have much time before she find me! Nik is in town and some of you already know she hijacked this months STL2600 + DC314 meetup. But not only that, she hijacked me, my cats, and my vintage animated GIF collection. We&#39;ve been bound and blindfolded in her lair, but I did manage to overhear her monologueing her plans like a super villain. Fortunately I was able to sneak away without her noticing an there&#39;s pretty decent WiFi. So allow me to relay her evil plans while I have the chance.
+Seems she went insane with jealousy that we played some CTF games without her, and out of shear diabolical maliciousness she is insisting we do more. Specifically the Hack the Box CTF (
+https://www.hackthebox.eu/
+). If that wasn&#39;t bad enough, she&#39;s forcing us to have snacks and drinks like it&#39;s some kind of party! I never thought she could be so sick and deranged!
+Whatever you do, do not bring a laptop to work on! Do not bring your favorite hacker snack or drink to share with everyone! Doing any of that will only fuel her insanity and doom us all!
+Got into an argument the other day about which was the better Mathew Broderick movie. WarGames, Cable Guy, or Godzilla? So I said &#34;I know how we&#39;ll settle this. We&#39;ll post it online and ask for a vote.&#34; So here we go: Raise your hand for which is your favorite. I&#39;ll even sweeten the pot by basing the next STL2600 + DC314 talk around the answer. So go on, everyone vote by raising your hand now... See? Clearly it&#39;s WarGames. As clear as it is that I&#39;m making this whole scenario up. But a deal is a deal. So how are we basing the next talk on the movie WarGames? Are we going to live hack into a military supercomputer and nearly start World War III? Not exactly. I like very much not being in prison.
+Instead, Zach&#39;s going to help us out by walking us through an online wargame called Bandit. Bandit is a beginner CTF game designed to teach the essential skills for competing in more advanced CTF games. We&#39;ll go through each challenge as a group, collaborate, and share our individual solutions to the problems. Bring a laptop to play along. You are also more than welcome to just sit and soak up the knowledge as well. Should be a fun night and something different from our usual discussions.
+&#39;Tis the season of re-gifting. Why should STL2600 + DC314 meetups be any different? With that in mind, Bob and I are blatantly recycling ideas! Well, sort off. Coming up with new topics and finding time to put them together around the holidays is always a challenge. So we are going to pass the buck off to all of you!
+When discussing possible topics this month, Bob pointed out it&#39;s been just over a year since the last time we decided to do a Lightning Talks night. And we thought the last one went pretty well, and we thought, &#34;Why not make it an annual thing?&#34;.
+So, make a New Year&#39;s resolution to give a talk at STL2600 + DC314 and then immediately check it off your todo list. (And here&#39;s where I start the copypasta) Five minute stints of everyone covering their favorite tools, tips, and/or tricks. We are going to cram as much content into this evening like it&#39;s a time travelling delorean full of clowns.
+Now both Bob and I will have a few talks ourselves, but we are really hoping for some audience participation. If you can ramble on for five minutes about something, now&#39;s your chance! Bring slides, or tempt the demo gods by doing it live, we don&#39;t care. You can let me know ahead of time, or just surprise us the night of. Regardless, you&#39;ll have your shot to take the stage.
+This 1.21 jiggawatts will be striking the clock tower at the usual time and place. Hopefully these presentations will hit 88 mph and we&#39;ll see some serious shit... Though admittedly, I don&#39;t know how that would actually work. I decided to include the Back to the Future references pretty late into writing this, and I&#39;ve got to get it done so I can still hit &#34;Announce&#34; on the Meetup.
+PROJECT NEPHOLOGY
+Episode IV
+RENEWED HOPE
+It is a period of reduced privacy.
+Determined hackers, striking from
+an obfuscated IP address, have won
+a major victory against the morally
+ambiguous advertising networks.
+During development, the hackers
+managed to publish plans for the
+ultimate weapon, the Pi-Hole, a
+DNS sinkhole smart enough to
+block advertisements and trackers
+for an entire network.
+Pursued by tracking cookies, Bob
+and Joe race to configure their
+firewalls, bolstered by the Pi-Hole
+that can save their privacy and
+restore their freedom to browse
+for porn...
+Did you like that Star Wars parody? I had a bet with myself I could somehow related this description to the &#34;The Mandalorian&#34;, and boom, I just did.
+Bob and I are both in the midst of re-building our home networks, so it seemed an opportune time to dust off Project Nephology again and look at building your own personal cloud. While were aren&#39;t focusing on any particular web services this time, it&#39;s just as important to keep the network your personal cloud is hosted on secure and private. Otherwise, what&#39;s the point of hosting it yourself?
+The two part&#39;s we are discussing are probably tool&#39;s you&#39;ve heard of before, as they aren&#39;t exactly new. But you could also substitute &#34;not new&#34; for &#34;well tested&#34;. As I&#39;m sure you&#39;ve guessed from above, we&#39;ll be talking about the Pi-Hole, and then segue into integrating it into a firewall. The particular firewall in question being PFsense, which was a bit more difficult to work into the opening crawl and is now being mentioned by name for your benefit. Kind of like the old Star Wars action figures of random cantina aliens who&#39;s names you didn&#39;t know about until you saw the packaging. Or perhaps I&#39;m just dating myself.
+And to bring it around to The Mandalorian once more; As STL2600 + DC314 is on Friday, as well as new episodes are released on Friday, I plan on being caught up BEFORE the meeting and ready to discuss it. And we all know how great at planning I am...
+I happen to be at the pet store while on the phone with Bob discuss a little project we&#39;ve been working on. I suggested we find some guinea pigs before we get to Phreaknic and check into the hotel and make use of the room service. Next thing I know is pet store security of escorting me out the door. I&#39;m not allowed back there anymore for some reason. Also, despite what you&#39;d think, pet store security doesn&#39;t have guard dogs. Nor guard cats, guard parakeets, guard hamsters, or anything. I definitely thought some sort of guard animal would be standard issue.
+Anyway, while the STL2600 + DC314 meeting is this weekend, the following weekend if PhreakNIC. And as I was suggesting to Bob, we should dry run our presentation on some metaphorical guinea pigs before we give it at PhreakNIC. And while I maintain I don&#39;t know what the pet store clerk with the horrified expression was so upset about, Bob and I will flat out abuse our position of leadership by volunteer you all as our test subjects.
+And what will be tested on you? Well our presentation, of course. The presentation that we obviously haven&#39;t composed, on the project we haven&#39;t even built yet. Because that&#39;s just how we roll. We&#39;ve got all week to put it together though, so I&#39;m sorry we&#39;ll have something by Friday. We always do, don&#39;t we?
+Not that we are completely unprepared. We have software developed. We have parts delivered. Just some assembly needed is all. Assembling what, exactly? Well that would be a little project Bob and I have been working on called &#34;Room Service&#34;. It&#39;s a complete conference or vacation IT infrastructure in a single box! If you are like Bob and I who brings tonnes of gear to setup your own personal LAN whenever you check into a hotel, wouldn&#39;t it be great if you didn&#39;t spend the first several hours unpacking gear, running cable, and configuring? Don&#39;t you wish you could pull everything out of your suitcase already pre-assembled? That&#39;s where &#34;Room Service&#34; comes in. Just plug it in, connect to the hotel wifi through the built-in interface, and you&#39;ll have an instant LAN for all your devices, VPN, and a few other things we don&#39;t want to spoil here. But you get a sneak peak before we unveil it at this year&#39;s PhreakNIC.
+As per the usual, I realized I needed to get this post up. Knowing the topics in advanced, I figured I was going to need some more Lt. Commander Data jokes. So I popped on an episode of TNG for inspiration. Given the number of Data-joke themed meetup posts I&#39;ve done so far, I figured something late in the series was appropriate.
+Decided on the episode &#34;Decent&#34;. Which is a confusing title I think, because it has nothing to do with digging, sperlunking, or anything else you&#39;d associate with the word. It&#39;s the Season 6 cliffhanger / Season 7 premier. You know, the one where Stephen Hawking has a cameo and we see a holgraphic Albert Einstein for the second time. Well, there&#39;s a bunch of emo Borg, and Data learns to get pissed at things as well. At least I think so. Truth is that I promptly passed out from a sleep depriving week. But I chose it to watch mostly because in my fatigued state it made some kind of sense in relation to the topics for this weeks STL2600 + DC314 Meetup. Being an episode that was both Data and Borg centric, we had two great cybernetic tastes programmed into one shark jumping episode. And this week we&#39;ve got two talks for the price of one!
+In no particular order; The Borg Queen herself, Nik, will be in town just to visit us (like I begged her too). Because Nik isn&#39;t just the Borg Queen, she&#39;s now the &#34;As Seen At DEFCON&#34; Borg Queen. And I always inist that all my friends, aquantencances, or random people who I can get to pay attention to me who have presented at DEFCON need to do their talk at the STL2600 + DC314 Meetup. Because that means I have less work to do! An Nik is no exception, so she&#39;ll be re-telling the talk her and her project partner presented at the Hardware Hacking village at this past DEFCON 27 on reversing corruption of Seagate firmware. Doesn&#39;t that sound riviting? Sure, it&#39;s a cheap joke to poke at a dry topic, but the reality is I ofton find super specific topics like that among the most interesting.
+And to follow up, or preceed because no specific order has been decided yet, Kevin will be following up on the lightning talk he gave a few months back about a new anonymity network he&#39;s been working on called Onionr. Which lucky for us, because we get to see it first before he heads to Portland and present it to BsidesPDX. So don&#39;t say I&#39;ve never given you people anything!
+Had to upload this from my phone since I don&#39;t have internet, so there&#39;s probably spelling errors
+Hey look! I got the post up early this time!
+Copypasta...
+September is our annual local 2600 PGP Key-Signing Party! Food, People, and Cryptography! What could be more fun?
+If you already have a PGP key-pair, bring the fingerprint with you and some ID so everyone can verify and sign your public key. The more people you can get to sign your key, the more trustworthy it is!
+If you have an android device, you can make things easier by using the OpenKeychain app:
+https://play.google.com/store/apps/details?id=org.sufficientlysecure.keychain
+Also checkout 
+https://keybase.io/
+That&#39;s the easiest way we&#39;ve found to manage your keys. They support text input, QR code, or even NFC. There are some lesser iOS apps that will get the job done as well. And we&#39;ll have paper for those that want to keep it old school.
+If you don&#39;t have a key, don&#39;t worry! We&#39;ll be more than happy to help set you one up.
+Remember, it&#39;s also a party! Feel free to bring food and drink to share.
+Seems like we do this every year or something...
+You ever look at the task manager in your browser? Gives you a reading on how much CPU and RAM each webpage is eating up. Boy these sites have gotten bloated. Average about 50 MB of RAM for each site, as far as I can tell. Gmail takes up around 200 MB. I know we aren&#39;t so desperate for memory that we have to be counting each byte we use like in the punch card days. But still, 200 MB just to read email? Leave it open for a while, you&#39;ll see it go up. I&#39;ve seen pages take as much as 2 GB of RAM. Ever wonder what it needs all that memory for? Why is the CPU pegged on what seems like a static webpage? My point is what was originally conceived as a way to share text has gotten immensely complicated over the past few decades. Web applications have become the primary interface for the majority of today&#39;s computing. It would certainly benefit us to know a little more about what&#39;s going on with the sites you are using.
+At the next STL2600 + DC314 meetup, Andrew will help us get a better glimpse into what&#39;s going on. It&#39;s common practice for professional information security teams to dive into any web applications being used for business and make sure they aren&#39;t needlessly exposing sensitive data, or worse, providing an attacker a potential foothold into your network. And if you check the news, clearly some organizations are better at doing this than others. So Andrew is going to walk us through a typical security assessment for your average web application. Including what tools to use, how to make sense of what you see, and what you should be looking for.
+I&#39;ve never trusted Docker containers. Everyone seems to love docker though. They&#39;re always all like &#34;Awe, no. Docker&#39;s a cool guy. He&#39;ll help you move...yada yada yada&#34;. I don&#39;t buy it. Can&#39;t put my finger on it, but Docker&#39;s always seemed shifty to me. But does anyone ever listen to me? Nooooo! Meanwhile everyone just let&#39;s Docker hang out on their servers, borrow their data and what not. Mark my words, you just let Docker take advantage of you like that, you are just asking for trouble.
+Alright. All I am asking is that you be careful. Take a few precautions when you are dealing with Docker. Maybe I&#39;m just being my paranoid self but it can&#39;t hurt, right? That&#39;s where the next STL2600 + DC314 meeting comes in. Turn&#39;s out Docker is an old frat brother drinking buddy or something of Bob&#39;s. Whatever he is, Bob&#39;s got a few tips on how to handle Docker and not let it take advantage of you. So just hear him out, and learn how to keep your containers safe and secure.
+A brief bit of nostalgia... Way way back Bob and I did a talk that covered the WiFi Pineapple, a wireless pen-testing gadget from the folks at Hak5. How far back? Well I still took these descriptions serious. Can you imagine that? A 2600 meetup description lacking all of my horrendous jokes and incoherent ramblings? Anyway, I think the WiFi Pineapple was the first review we did of one of the toys from Hak5. Though every few years they do put out hardware revisions. It&#39;s nice that they keep developing the product, but at $100-$200, buying new units can add up.
+Fun fact: There&#39;s a bit of a parallel with the history of real pineapples. When the fruit was discovered, pineapples were a luxury item among Europeans. I&#39;ve even read that folks would rent them as center pieces for dinner party&#39;s just so they could pretend to be richer than all of their guests. But as time passed, Europeans expanded into the &#34;New World&#34;, pineapples became more commonplace. All of that doesn&#39;t really explain why I know this much about pineapples, but this is just one of those verbose adventures I like to take you on to distract from my rough, cobblestone laden segues.
+Back to my point; If WiFi Pineapple follows the same history it&#39;s bromeliaceae namesake, should we expect to see it become more affordable and accessible? Perhaps we should. A couple months ago I happened to stumble across a project called &#34;FruityWiFi&#34;. FruityWiFi is a feature complete and extensible software suite that seems to have the aim of being an open source competitor to the WiFi Pineapple. Capable of running on a Raspberry Pi, it seems to have comparable plugins that match most of what&#39;s available for the WiFi Pineapple itself (anyone else notice how often computery things get named after fruit?).
+If I may make a small confession, I&#39;ve been holding out on you. When I stumbled across this I considered posting it in our group chat, but held it back just so we could use it as a topic for an upcoming STL2600 + DC314 meetup. So instead, Bob and I have been digging into this whenever he wasn&#39;t occupied changing dirty diapers. I know what you are thinking, and no, I change my own diapers thank you very much! I&#39;m a big boy!
+So at the next STL2600 + DC314 meetup, I&#39;ll show you all what Bob and I think of the FruityWiFi. How does it stack up against the gadget that inspired it? Where does it surpass the WiFi Pineapple? In what ways does it fall short? And what other alternatives inspired by matured gynoecium might there be out there? Find out the answers to these questions and more, next Friday!
+And just because I like things to be a bit more non-sequitur, here is a recipe for the Raspberry Pineapple Punch I came across googling for a picture to use with this meetup. I&#39;ve never actually tried it. I just hit Copy &amp; Paste:
+Ingredients
+2 (12oz) cans frozen raspberry lemonade concentrate
+6 cups water
+1 (46oz) can pineapple juice (6 cups)
+2 2 liter bottles lemon lime soda (we used Sprite Zero)
+ice
+raspberries and pineapple for garnish, optional
+Instructions
+CHILL ALL INGREDIENTS BEFORE MAKING THIS DRINK.
+In a very large punch bowl or 2 gallon drink dispenser, stir the raspberry lemonade concentrate with the water and pineapple juice until combined. (Do NOT follow instructions on cans of raspberry lemonade concentrate.) Keep chilled.
+When ready to serve, add fruit and/or ice to the juice mixture. Slowly pour in the soda, and stir gently 2 or 3 strokes. Serve immediately. Store leftovers in the refrigerator.
+Yeah, that title is a pretty bad pun. It&#39;s not my fault though. We all know I&#39;m going to leave these descriptions to the last minute, so they shouldn&#39;t release a pivotal work of pop culture like Avengers: Endgame at the same time! I was completely aghast by the surprise cameos from Daredevil, Jessica Jones, and The Punisher from the Netflix series. And holy crap! That moment when the Fantastic Four actually showed up hauling the giant house sized terrarium with the goddamn Ninja Turtles just chilling in it? Then fucking Thanos teamed up with the Wicked Witch of the West until her army of flying monkeys bit him and he got that virus from the movie Outbreak and died! Oof, and there wasn&#39;t a dry eye in the theater when Captain America got knocked down and he called his dad, only to have the CGI reincarnation of Mr. Fred Rogers show up in full cardigan and start whooping everyone&#39;s ass!
+After seeing all of that, who can be expected to sit down and think of witty jokes about Coreboot, the open source BIOS to replace proprietary firmware on motherboards? I mean, how am I suppose to focus on what best describe Colin&#39;s upcoming STL2600 + DC314 presentation about it and what it takes to install it on your own system when all I can think about is how the fate of universe is hanging in the over a game of marbles taking place out of Spider-man&#39;s high school?!
+*Sigh* Well I suppose I&#39;ll figure something out. Maybe ramble on incoherently about fake spoilers for a highly anticipated movie that really has no real relation to the topic that I could think of. Then maybe I&#39;ll round things out at the end with a kind of meta narration so I have someplace to point out the usual necessary information about it being May&#39;s meetup taking place at 7:00 at Arch Reactor. Yeah, that&#39;ll probably get me by for now.
+Oh... &#34;Spoiler Warning&#34;, I guess.
+Well for various reasons I&#39;m quite inebriated while trying to write this particular description. Enough so that I&#39;m attempting to write it all with my eyes closed. Oh, sure, I&#39;ll look at what I&#39;ve actually written at some point when I post this to the meetup, But right now I I just need to rest my eyes for a moment. Thank goodness for those typing classes in high school, eh? And those little bumps on the &#34;F&#34; and &#34;J&#34; keys to let my fingers know where they are on the keyboard. Makes it easier to tell you about the fascinating presentation we have for the next STL2600 + DC314 meetup on Friday. (Okay, I peaked my eyes open a tiny bit to get the title correct just then. Using the &#34;Shift&#34; key can still mess me up with my eyes closed.)
+Bill is taking things on this month, in what will be his first talk for all of us. And from what I hear so far, there&#39;s already plenty of procrastination involved. Just like a proper STL2600 + DC314 talk should have. Or else Bob and I haven&#39;t been setting a good example for you all. Bill will be advocating to us the virtues of configuration management. Every system is constantly evolving and changing. With the installation of every application, update, or patch, the system constantly changes. We feeble bags of meat, particularly the ones that responsibly indulge in the wonderful beers and spirits, are completely unreliable when it comes to tracking the endless changes to any particular system.
+But hey, what are computers for if not to automate the mundane tasks so the rest of us can keep the party going. There&#39;s plenty of options to manage and automate configuration changes to your systems. To keep track of what&#39;s been successfully delayed, versus what&#39;s been fouled up by our sausage-like digits clacking mnemonic abbreviation into a monolithic silent automaton. In soberish English, come next Friday to learn a thing or tow about Configuration Management from Bill, what tools are available to you, and probably some pretty obvious reasons (at least once you hear them) as to why you should practice good change control in the first place.
+And if you are wondering: Only 7 spelling errors from typing that whole thing with my eye&#39;s closed.
+Also, the plane gag is mostly irrelevant to the topic. It&#39;s just a nod to Bill and he can explain it if he wants. Though you&#39;ll probably be disappointed by the answer.
+I was browsing online as one does when I came across an unfortunate question: &#34;Does Lt. Cmdr. Data poop?&#34; Dammit if that question is going to continue to haunt me. I can&#39;t think of an answer to that question without going to dark disturbing place, and I&#39;m pretty sure we&#39;d all regret it if I did. There&#39;s all the subsequent questions that it raises as well. I mean, assuming Data was equipped with the correct &#34;hardware&#34;, there must be corresponding software to drive it, right? Is that a solved coding problem in the 24th century? What kind of variables are you dealing with? Did Data have to wear diapers until Dr. Soong got all the incontinence bugs worked out? Can you file a software patent for that kind of thing?
+There must be a way to answer these kinds of questions. And you should all know at this point that when I start talking about Lt. Cmdr Data that I&#39;m eventually going to twist it into some kind of awkward metaphor about the topic for the upcoming STL2600 + DC314 talk. Well aside from the addition of poop jokes this time around, why should this time around be irregular?
+Let&#39;s assume for the moment we&#39;ve somehow got a copy of Data&#39;s sphincter control drivers. How are we suppose to figure out how it works? Buttholes for a Soong-type android aren&#39;t just something you can pick up at Micro Center, so it would be difficult to just run the code and tap that ass&#39;s I/O. What if we took a look at the compiled driver itself? It certainly would be a lot less messy, right? Regardless of how smooth an androids bottom might be.
+Well Nik, &#34;The Borg Queen&#34;, has returned to help us assimilate all the knowledge we need to get started reverse engineering all the robotic soft-serve drivers we can handle. Nik is going to show us how to use Radare and Cutter to pull apart a binary and make sense of the underlying assembly code. We&#39;ll learn some of the Basic syntax, instructions, registers and conditions, as well the fundamental precepts in Reverse Engineering CTFs. Why is she doing this? Because she&#39;s the shit, that&#39;s why.
+Part of this talk will be a workshop, so everyone is encouraged to play along. You can download the Cutter software for Windows, Linux, or MacOS from 
+https://github.com/radareorg/cutter/releases.
+ Ideally you&#39;d want a VM setup as well to play around in, but it&#39;s not strictly necessary since we won&#39;t be handling anything malicious.
+I&#39;m so excited about this one, I might just crap myself.
+Apologies for the cancellation/rescheduling thing. Of course the STL2600 + DC314 meetup is still happening. It&#39;s just the first time I&#39;ve actually had the chance to sit down and actually write the post for this months meetup. And if it&#39;s less than six days before, I can&#39;t &#34;announce&#34; the event. Which also just means I need to be better about scheduling these earlier, but that&#39;s not news to anyone. Is it?
+Anyway, back to what&#39;s important: I&#39;m thinking this month we should take a look at QEMU. Just feels like it&#39;s a pretty underrated virtual machine platform. It actually emulates a lot more CPU architectures than just your standard Intel chips. So it&#39;s really got me wondering what kind of archaic crazy software we can actually get running on this thing.
+So that&#39;s the plan. I&#39;m going to reach into the depths of the underworld and see what we can resurrect from the dead, and justify our necromancy by figuring out some practical reason as to why we can&#39;t leave this dead software in peace.
+So yeah, regular time and place.
+I had a horrible nightmare the other night. Bob and I were just platonicly laying on a grassy hill staring up at the sky. As they do, several clouds were moving across the sky taking on odd shapes. I pointed to one and asked Bob what he thought it looked like.
+He said &#34;That puff of cumulus there? It looks like someone else&#39;s computer, to me.&#34;
+I pointed out another to him and asked &#34;Well what about that wacky bit of cirrus over there?&#34;.
+&#34;Hmm... Looks like a forgotten series of topics for an STL2600 + DC314 talk.&#34; he responded.
+Next thing I know I&#39;m waking up in my own bed filled with dread. Disturbing, right? Even the aliens who were about to abduct me read my mind and were like &#34;Shit. That was fucked up. Will just beam out now. You&#39;ve got enough problems already.&#34;
+So well over a year ago (June 2017), I ranted on a bit about my short attention span. Clearly the situation hasn&#39;t improved any. But as a sure as you&#39;ll one day find your goldfish auditioning to be a pool toy for a Lego mini-fig, I do eventually find my way back on topic.
+I&#39;m sure everyone remembers a few months ago when Microsoft surprised everyone when they bought Github, immediately followed by a huge exodus of users who remember the 80&#39;s and 90&#39;s when Microsoft&#39;s favorite pastime was ripping off code they couldn&#39;t buy or squash. Seemed like an apropos excuse to dust off &#34;Project Nephology&#34; and talk about setting up your own hosted git server.
+So for the next STL2600 + DC314 meetup, we&#39;ll discuss some of the options available for hosting your own git server. And, if all of my notes are still up-to-date, possibly walking through what it takes to git one of these bad boys up and running.
+FYI: We won&#39;t be teaching how to use git. I don&#39;t have the time to learn it myself first, and Bob&#39;s gitting ready to push out a new release.
+Well it was bound to happen sooner or later. After years of rambling on about random topics, it was only a matter of time before Bob and myself truly snapped. I mean, just take a look at this passage? Whens the last time I was able to write a coherent sentence like this? Definitely a sign that I&#39;ve gone and lost my marbles. Combine that with how busy everyone gets around the holidays, it just seemed down right impossible come up with a single topic for us to bullshit our way through this month.
+Key word there being &#34;single&#34;. That&#39;s right, we are going to lean into the chaos this month and see how many topics we can cram into a single evening! And we are encouraging you all to participate. Rapid fire, one after another, will being having an evening of lightening talks. Five minute stints of everyone covering their favorite tools, tips, and/or tricks. We are going to cram as much content into this evening like it&#39;s a time travelling delorean full of clowns.
+Now both Bob and I will have a few talks ourselves, but we are really hoping for some audience participation. If you can ramble on for five minutes about something, now&#39;s your chance! Bring slides, or tempt the demo gods by doing it live, we don&#39;t care. You can let me know ahead of time, or just surprise us the night of. Regardless, you&#39;ll have your shot to take the stage.
+This 1.21 jiggawatts will be striking the clock tower at the usual time and place. Hopefully these presentations will hit 88 mph and we&#39;ll see some serious shit... Though admittedly, I don&#39;t know how that would actually work. I decided to include the Back to the Future references pretty late into writing this, and I&#39;ve got to get it done so I can still hit &#34;Announce&#34; on the Meetup.
+Both Bob and I recently gave talks at last weekend&#39;s PhreakNIC in Tennessee. And despite the unfounded and yet self-speculated miraculous abilities of both Bob and myself, pulling more than one presentation a month out of our collective metaphorical orifices is beyond even our legendary abilities. So we are going to cheat!
+At the next STL2600 + DC314 meetup, Bob will be presenting his talk that is so nice, I&#39;ve asked him to do it some number of times that rhymes with the word &#34;nice&#34;. But I&#39;m going to cut this description about short, as I am dealing with some virulent cold that could be turned into a biological weapon. So I&#39;m just going to copy and paste what Bob wrote for his PhreakNIC description:
+&#34;GraphQL is a next generation query system for the internet. If you&#39;ve ever been frustrated by a REST API because the data came back in an uncomfortable format, or you weren&#39;t able to ask for exactly what you need, then GraphQL is for you.
+In this talk, I&#39;ll give an overview of how GraphQL APIs are built, how to use them as a client, and (since this is PhreakNIC) a brief breakdown of the security implications. The services demoed in the talk will be live and publicly accessible, so feel free to bring a laptop along to test out what you&#39;ll learn in real time.&#34;
+There you go. See you all next week... If I survive. Until then, I&#39;m going back to bed and REST.
+(Well what do you know? I still had one pun left in me.)
+Wow, so this month&#39;s talk isn&#39;t actually about Android this time. That means no more Lt. Cmdr Data jokes and I just don&#39;t know what to do about that. Well I could keep making Lt. Cmdr Data jokes, but it just wouldn&#39;t be appropriate since the next topic doesn&#39;t have anything to do with androids, or even Star Trek. But we&#39;ll continue on with our mission... boldly... where someone may or may not have gone before.
+Oh, and while we are on the subject; The prime Trek universe is the only true Star Trek! That Abrams/Kelvin Timeline is crap. I know I&#39;ve said it many times before, but I&#39;m stating it again!
+Admittedly, I&#39;m saying it mostly just because I&#39;m trying to work the word &#34;prime&#34; into the conversation so I can then bring up prime numbers, and from there some ham-fisted segue into the actual topic. There were probably other ways to bring up prime numbers in the context of Star Trek. Like in the season three episode of TNG titled &#34;Allegiance&#34;. Captain Picard taps out prime numbers on a keypad, so his captures will know he is intelligent and comprehend mathematics. I think they did it in the film/book, Contact, as well, but then it wouldn&#39;t be a Star Trek reference. And if I&#39;m honest with myself, that&#39;s not much better than the awkward transition of a topic that I&#39;ve already made.
+This is usually the time where people start to frustratingly demand what my point is. Well, from what I hear, prime numbers are important to things like encryption and the algorithms that love them. And that&#39;s where we start getting closer to the actual topic for the next STL2600 + DC314 meetup. Or at least I think it is. I&#39;m hoping to find out for sure during the presentation. I think the answer is... math?
+The point is that Perri has been gracious enough to offer a talk on cracking RSA challenges. I thought this sounded really... really... hard, but I&#39;ve been assured it&#39;s as easy as playing Mastermind. The board game that is, not the terrible 1997 movie where a mustached Patrick Stewart plays the villain (Seriously... it happened: 
+https://www.imdb.com/title/tt0119630/
+).
+Though I&#39;m still a little suspicious, because that assurance came along with a lot what I think might have been math in the explanation. I&#39;m taking Perri&#39;s word for it though. Still might want to bring a pencil, pad of paper, and a supercomputer for this one. Perri&#39;s bringing some challenges we&#39;ll be able to try out for ourselves.
+Copypasta...
+September is our annual local 2600 PGP Key-Signing Party! Food, People, and Cryptography! What could be more fun?
+If you already have a PGP key-pair, bring the fingerprint with you and some ID so everyone can verify and sign your public key. The more people you can get to sign your key, the more trustworthy it is!
+If you have an android device, you can make things easier by using the APG or OpenKeychain app:
+https://play.google.com/store/apps/details?id=org.thialfihar.android.apg
+ (
+https://play.google.com/store/apps/details?id=org.thialfihar.android.apg
+)
+https://play.google.com/store/apps/details?id=org.sufficientlysecure.keychain
+Also checkout 
+https://keybase.io/
+That&#39;s the easiest way we&#39;ve found to manage your keys. They support text input, QR code, or even NFC. There are some lesser iOS apps that will get the job done as well. And we&#39;ll have paper for those that want to keep it old school.
+If you don&#39;t have a key, don&#39;t worry! We&#39;ll be more than happy to help set you one up.
+Remember, it&#39;s also a party! Feel free to bring food and drink to share.
+Seems like we do this every year or something...
+The following is a transcript of a recording Bob made. He claims it was &#34;just in case they needed evidence&#34;. It contains a conversation he observed me having a with one of my cats:
+What? Seriously? We are doing Android stuff again?
+...
+How many Lt. Cmdr Data jokes do you think I actually have?
+...
+It doesn&#39;t matter that I stole most of them from the internet! That doesn&#39;t mean there&#39;s an infinite supply of Data jokes!
+...
+Can we go a different direction maybe, like make a joke about Big Data?
+...
+No, I don&#39;t mean Tasha Yar&#39;s nickname for his anatomical correctness. I mean the other kind of big data.
+...
+I guess you are right, that doesn&#39;t really tie into Android subject matter. What about a Westworld joke?
+...
+Good point, nothing could be funnier than that Westword Rick Roll they did earlier this year. (
+https://youtu.be/W7oeROkyPgs
+) So we are just going to fall back on the usual?
+...
+It&#39;s settled then, we post another picture of Data with a bit of incoherent rambling and a summary of the topic.
+So at the next STL2600 + DC314 meetup, the Android OS will take center stage again. Bob is is finally going to take the plunge and fulfill one of his oldest fantasies right in front of is all. You guessed it! He&#39;s put together a walkthrough for configuring your basic Android mobile device to give you the best possible combination of security and privacy the platform can offer. And with DEFCON happening the following week, this is the perfect preparatory protect for anyone planning to attend that most hostile environment for networkable devices.
+On a side note, this is still the actual transcript. Bob looks like he&#39;s kind of freaking out right now while I scream all of this at him. He&#39;s just dropped the recorder and is running away. Bob! Where are you going?
+...
+Bob! I thought we were going to get a beer next, and then go shopping for friendship bracelets!
+...
+Bob!... BOB!... Dammit... He was my ride home.
+Oh well. See everyone Friday at the next STL2600 + DC314 mee- *click*
+The recording reached the end of the tape.
+How about that? The Data jokes keep coming.
+At the next STL2600 + DC314 meetup, an we have an old friend in town. Nik has been off studying in the far far... far east. So far east in fact, she ended up on the west coast. She&#39;s learned the ancient secrets of data recovery. Yup, she&#39;s going to whip out her snake and use it to time travel back to 1800&#39;s. While there she&#39;ll play a bit of poker and hang out with Mark Twain. Then to top things off, send a secret message back to the future by rubbing iron filings in her eye!
+Of course by &#34;whip out her snake&#34; I mean cover some basic DIY recovery techniques. Which means &#34;time travelling back to the 1800&#39;s&#34; is a metaphor for touching on the history and myths of data recovery. Obviously by &#34;playing poker&#34; and &#34;hanging out with Mark Twain&#34; I mean she&#39;ll discuss why some methods work better on certain brands of hard disks. All right, maybe confidential messages transmitted by ocular dispersion of ferrous crumbs is a bit of an obscure reference to a live demonstration. But seriously, do I have to explain everything?
+But if you do want to follow along with the demo, go ahead an download Access Data&#39;s FTK Imager (
+http://marketing.accessdata.com/ftk-imager-3.4.3-download
+).
+Oh, and one more fun fact: Since Data&#39;s head is still buried under San Francisco with all of his memories of the first six season, ST:TNG should still be canon. Even in the crappy rebooted Star Trek universe.
+Woo! Forgot to get the description up in time to hit the &#34;Announce&#34; button, so I have a choice to make. Either cancel and re-add the meetup, or just update the post and hope for the best. I don&#39;t know which it&#39;ll be, but I&#39;m sure you&#39;ll have figured out which by the time you read this... If you are reading this, that is.
+We are coming to a close on our series on Android pen-testing. Don&#39;t worry, I&#39;m sure I&#39;ll come up with other excuses to post&#39;s weird pictures of Data from Star Trek: The Next Generation. Oh, and there is also a presentation next Friday as well, if you are interested. I just assume everyone comes for the Data pics, but the truth is we&#39;ve got a lot of educational shit going on too!
+As I was saying, Anarchy is finishing up his trilogy of talks on ways to probe the orifices of the Android operating system by revealing to us the secrets of exported broadcast receivers. (I don&#39;t care if you grammar nazis say that&#39;s a run-on sentence or not. I&#39;m sticking with it!) So let&#39;s destabilize this positronic matrix and use some fucking contractions at the next STL2600 + DC314 Meetup! Be there, or B4!
+I was really expecting to be inspired to come up with a bunch of clever android jokes about Vision by seeing Avengers: Infinity War. That didn&#39;t work out as planned at all, and now I&#39;m bereft with grief over *spoiler redacted* and *spoiler redacted*. So now I&#39;m not sure what I&#39;m going to do. Probably just revert to Data jokes again. They never fail, right?
+How many Soong-type androids does it take to change a light bulb?... Okay, I don&#39;t know. I haven&#39;t come up with a punchline yet.
+Though I did find this one I thought was pretty funny: How many Cardassians does it take to change a light bulb? Depends on how many lights you see!
+That&#39;s enough of an attempt at shenanigans for now. Let&#39;s just cut to the chase, shall we? At the upcoming STL2600 + DC314, Anarchy will be continuing his series on Android app pen-testing. Part two will focus on exploiting exported content providers and insecure file storage. Meanwhile, enjoy the attached photo of Data dressed in drag.
+You know, if you start googling about androids in pop culture looking for inspiration to write a 2600 description, you risk falling down a very deep rabbit hole.
+For example, I just spent the past hour and a half trying to figure out what movie this guy saw as a kid. I don&#39;t even know him! Just some random question posted to Sci-Fi Stack Exchange over a year ago because he couldn&#39;t remember what the movie was. He just said that had some androids fighting on a space ship and I thought it sounded kind of cool. And no, I didn&#39;t find it.
+But I don&#39;t have the time now to write a clever Blade Runner parody like I was originally planning too. C&#39;est la vie, I guess. Unless you&#39;re a stinking skinjob, that is.
+So if you&#39;ve guessed that all this little rant about androids, is because the topic for the upcoming STL2600 + DC314 meetup has something to do with the Android OS, well good for you. But let&#39;s be honest, it wasn&#39;t really that big of a leap, now was it?
+So yes, at the next STL2600 + DC314 meeting, we are going to learn how to do some Android app pen-testing. Anarchy is back and will be our designated Blade Runner through this upcoming 3 part series. The first of the three is going to be setting things up for your pen-test, as well as getting into intent spoofing. So come find out what happens when over 80% of the smartphone market comes under fire.
+Right now I Need you all to realize how special you all are to me. Because right now I&#39;m lit like InitEch after Milton quit at the end of Office Space. I was at a beer festiVal, so I&#39;ve been drinking non-stop sincE 6:00. Oh, don&#39;t give me that look! It&#39;s not like I do this daily... well not always &#34;daily&#34;. I mean when you sleep a full 36 hours afteRwards, that&#39;s at least one day in there between drinks, right? This isn&#39;t about me anyway! I&#39;m tryinG to bare my sOle here. They&#39;re gel iNserts... No? Okay, fiNe. I&#39;m trying to bAre my soul here.
+Like I said, I&#39;ve had a bit to drink. Why else would I be resorting to footwear humor? My point, as flimsy as it miGht be, is that as sure as I&#39;ll have a headache tomorrow mornIng all I want to do right now is sleep while leVitating a good 4-5 inches above my matrEss. That&#39;s how we normal human non-interdimensional-aliens do it, right? But I can&#39;t because I&#39;m committed... and committed to all of you to making sure this meetup post get&#39;s updated at some point before the actual meetup takes place. Because that&#39;s hOw we normal human non-interdimensional-aliens experience *snickers* &#34;time&#34;. Amiright?! But that&#39;s how important you are all to me. I&#39;m sacrificing my human-sleep, so I can make sure you all are aware of what is going on at the next STL2600 + DC314 Meetup. You are welcome!
+And because of our linear timeline, none of you have anY idea what this months topic is yet. Because I&#39;ve been rambling on pretty nonsensically for a couple of passages now. It&#39;s like I&#39;ve just been spewing a bunch of nOnesense to cover up the fact there is something else going on entirely. Like if I were a cyberspace version of Elon MUsk, and I decided to build a tunnel under all the other traffic on the Internets so I can send my packets along unobstructed.
+Well surprise! That&#39;s exactly what we are going to talk about. Now I know most of our regulars already know how VPN&#39;s work. But it was expressed to me that there&#39;s a lot of people out there who are interested in VPN, and the benefits of anonymity, but don&#39;t quite no where to start. So Bob and I have decided to help them out. We are going to put together a VPN rUndown. We are going to take a look at the various VPN providers out there and compare them. Then touch on how to setup a VPN for your home network, for those of your out there who want something a little bit more soPhisticated. It may not sound like much, but in my current inebriated state, it sure seems like there is a lot to talk about on the subject.
+I&#39;m out of bad jokes, so see you all next Friday.
+So sometimes a shiny new toy comes out that is just drool-tastic. And on paper it sounds pretty freaking awesome, provided it works like my Saturday morning cartoons say it does. But shockingly, we live in a world were the coolest gadgets don&#39;t live up to the hype. Honestly, I&#39;m still super bummed that my original Lazer Tag set didn&#39;t give me Jedi-like powers and let me travel through time like on the cartoon. (Curse you Jamie Jaren and those filthy Skugs!)
+Sure, some parents loved their kids more than others, so not only did you have a Super Nintendo, Sega Genesis, and a TurboGrafx 16, but you also had the Neo Geo so everyone wanted to kick in you inbetween player 1 and player 2. Those kids might not know what I&#39;m talking about.
+But the rest of us know about having to make that gamble. Which system is going to win out? Which is going to generate the least amount of ridicule among your peers? Well it&#39;s another one of those times.
+Fortuntely, Thom is a brave enough man to take that gamble for us. I&#39;m talking about Librem laptops from Purism. Open hardware designed for privacy in mind, just as the average STL2600 + DC314 cares about.
+Purism is long on promises of no backdoors, no bloatware, no Superfish. And even if it&#39;s as they promised, there still the question if the hardware adds up to a laptop you can be productive with. Or does it belong at the bottom of a pile of broken V-tech toys at a Goodwill? The answer to these questions start with forking over at least $1200.
+Thom was willing to take the bet. He got himself one of these bad boys and has been taking it for a spin. So next Friday, in what could be his farewell presentation before moving to the west coast, he&#39;s agreed to give us the lowdown on his Purism laptop.
+• What we&#39;ll do
+Woo-wee! January&#39;s a commin&#39; and it&#39;s colder than a snowman&#39;s carrot stick out there. But we&#39;re certainly not about to let that stop us from having our regularly monthly hootenanny. Bob&#39;s lassoed us up a herd of messaging apps that are secured so tightly, that some other wild west cliche would apply! So get ready for a Secure Messaging Rodeo Round-Up!
+In the meantime, this &#34;cowboy&#34; joke isn&#39;t quite working out the way I had hoped so I&#39;m just going to drop it. But since I&#39;ve gotta get some kind of description posted, and I&#39;m too tired to start over, we are going to push forward. At the next STL2600 + DC314, we&#39;ll be fondling a grab-bag of secure messaging clients that will make it difficult, or at the very least somewhat annoying for anyone who might be a bit too nosy. Whether it&#39;s a larger older sibling, or some other 2600 regulars whom I know for a fact possess some of the tools necessary to get up into your business if they wanted. (Yeah, you know I&#39;m looking at you!)
+Any-insert-interrogative-word, the point is with these apps, your secrets will stay secret. Your privates will remain private. And your requested and mutually agreed upon exclusive genital image exchanges will remain exclusive... Well at least while in transit. Once it&#39;s received, you can&#39;t control what the recipient is going to do with it. But that&#39;s a different problem to solve.
+Remember the words of Benjamin Hackerstein: &#34;Three people can keep a secret, if two of them are dead. Provided you&#39;ve salted and burned the bones so you can&#39;t resurrect their spirits like in that show Supernatural.&#34;
+BH was certainly one of our most eccentric founding fathers. See you Friday.
+( The picture&#39;s a Dick pic. Get it?! )
+• What to bring
+• Important to know
+So as far back as DEFCON, there were not so subtle hints that Hak5 would be coming out with another neat little toy. Well last month they finally released it, just in time for us to put it on all our non-denominational holiday wish lists!
+Darn my luck though, if I don&#39;t already have one. I took a nasty tumble at the office and almost fell on my keyboard. Just so happened to launch day for the new little gadget as well. So when I tried to stop my fall by grasping for the mouse, I accidentally hit the &#34;Order&#34; button on the screen. That slippery little mouse though flew right out of my hands. Tried to grab it, but me being my uncoordinated self, it just bounce across my keyboard. And by an amazing coincidence, it typed the exact keys to enter in my shipping address and payment info. Heck, I couldn&#39;t do that again if I tried!
+Anywhoo... Hak5, in continuing with their backyard menagerie theme, is calling this new tool the Packet Squirrel. And to start off with probably the most obvious of squirrel related puns; This thing is pretty nutty!
+I&#39;ll say at first glance, this thing is little bit Bash Bunny, and a little bit LAN Turtle. Since I can&#39;t think of a good tortoise and the hare joke to put here, I&#39;m just going to ponder for a moment on what kind of genetic hybridizing allows BUNNY + TURTLE = SQUIRREL to evaluate as TRUE.
+So if it hasn&#39;t been completely obvious yet; At the next STL2600 + DC314 Meeting, we&#39;ll be cracking this nut open to seeing all the little tricks squirreled away inside this little piece of plastic. Then we&#39;ll chitter on much like we did with the Bash Bunny and do some brainstorming. Let&#39;s see what other nutty ideas we can gather for this thing before winter officially settles in.
+See you all next Friday...
+Joe: So Thom, what are you thinking about doing for the next 2600 meeting?
+Thom: I&#39;m leaning towards doing a talk about Tor&#39;s Hammer.
+Joe: Oh! I love Stargate SG-1! So it&#39;s a deep dive into that one episode when Teal&#39;c and Colonel O&#39;Niell get zapped to an inescapable cave because Teal&#39;c is carrying a goa&#39;uld? Then they have to fight that giant lizard-creature voiced by James Earl Jones?!? That was such a good one!
+Thom: ...What the heck are you talking about?
+Joe: What are YOU talking about? Is this not a talk about Stargate SG-1? Bummer.
+Thom: Yeah... No. Tor&#39;s Hammer is a Denial-of-Service tool from a few years ago that lets you anonymize your attack over the Tor network.
+Joe: But it&#39;s the Stargates that were networked together, not the Asgard... Well, except maybe that onetime Thor was captured by Anubis and got his brain downloaded into that mothership.
+Thom: Joe! Focus! I&#39;M NOT TALKING ABOUT STARGATE SG-1!
+Joe: Right! Sorry. Please continue with hammer time.
+Thom: Well I&#39;ve done some research on the tool. I thought everyone would like to hear what I found out. What are you going to be doing?
+Joe: Well Bob and I are heading down to PhreakNIC. We are hoping to give an updated version of our Going Commando talk while we are there.
+Thom:  Stargate Commandos?
+Joe: I suppose I had that coming.
+Thom: So it&#39;s like there are two 2600 meetings for the price of one?
+Joe: That&#39;s right!
+Thom: What an incredible deal!
+Joe: Yup! So everyone, take your pick! Follow Bob and I down to Mufreesboro Tennessee and checkout the PhreakNIC conference. Or if you can&#39;t make the trip, check out Thoms talk about Tor&#39;s Hammer. It&#39;s win/win either way!
+Guess what? I got lazy about posting the meetup again. Big surprise, right? But you should all know by this point I always come through for you all. You can trust in that.
+Amarok is presenting this month, and the focus of the talk is going to be HUMSEC. In security we all know that we ugly-bags-of-mostly-water are always the weakest link in the chain. That means you can&#39;t trust yourself. You can&#39;t trust your coworkers. You can&#39;t trust the less ugly-bag-of-mostly-water at the end of the bar winking at you. You can&#39;t trust your mother, you Xbox, or your new internet connected BBQ grill. (That&#39;s a real thing, btw.)
+And you especially can&#39;t that phone you carry in your pocket everywhere.
+So come to 2600 on Friday and trust you&#39;ll learn something.
+I know this is a late post, but I&#39;ve been recovering from DEF CON so please excuse the delay.
+Fortunately for me, Anarchy has offered to present at the next 2600 meeting this week. Thus providing Bob and I a much needed respite.
+From his description, it seems to involve popping X11 hosts exposed on the internets. He ends up doing some pretty awesome stuff and built some awesome tools to make it all happen.
+But honestly, I got a bit lost because I&#39;m still sleep deprived. So I&#39;m going to keep this short and sweet. I&#39;m excited to see this one from the audience perspective for a change. You should all be excited too.
+See you all on Friday. Back to bed...
+As you probably already know, at the end of this month is everyone&#39;s favorite Gibsonesque hacker conference, DEFCON. And DEFCON being what it is, you can expect a diverse group of people in attendance with a very eclectic skill set. And by eclectic, I mean there are people there that would make Elliot Alderson wet his hoodie.
+(Some scary mo-fo&#39;s right there)
+The short of it is, while DEFCON provides for an essential exchange of information amongst the hacker community, it can definitely be considered a &#34;hostile environment&#34; for your digital devices.
+Now some people might debate the severity of the risk towards your devices while at DEF CON. You&#39;ll hear things like &#34;Oh, the secure network is fine&#34;, &#34;Just keep the wifi on your phone off,&#34; or &#34;I think that woman at the bar really likes me.&#34; But you won&#39;t get any of that here! We strive for a practical paranoid way of life. That means maintaining an internet connection, while at the same time feel reasonably certain that your mobile devices haven&#39;t lost their innocence.
+So come to the next STL2600 + DC314 where we&#39;ll go through our recommendations regarding what hardware to bring to DEFCON, and how to properly configure it. We&#39;ll also throw in a few of our favorite best practices for while you are in Vegas.
+And if you aren&#39;t planning on going to DEFCON this year, that doesn&#39;t mean this talk won&#39;t be of any use to you. These recommendations are useful for just about any situation where the security of your personal devices might be at risk.
+This is absolutely not DEFCON:
+Surprise! I waited until the last minute to post the meetup for this months STL2600 + DC314 Meetup! Did I fool you? No? Oh, I do this all the time? I see...
+Truth is the delay in getting these things posted is the same reason I&#39;m not a bomb defusal technician. Severely limited attention span... I&#39;d be over the timing circuit figuring out whether to cut the red or green wire when... &#34;Ooh... That&#39;s an interesting shade of green. What is that? And Evergreen color? I wonder if Home Depot can match that in a paint. It would look great in my...&#34; *KABOOM*. Suddenly I&#39;m hit by a bus because I was paying attention to color pallets instead of paying attention and moving the bomb from the middle of a busy road.
+I mean, someone with a more reasonable attention span would have probably gotten to the point by now. Well it may take me a little longer, but I get there eventually. Right about now should do...
+So for the next STL2600 + DC314 meeting, Bob and I will be picking up where we left off last week with &#34;Project Nephology&#34;. We are going to continue to help wean you away from the teat of corporate owned cloud services by setting up a replacement for Google Docs with Collabora Online Development Edition. It&#39;s developed by the people who developed Libre Office, and fully integrates into the Nextcloud software we discussed last week. By combining these two services, you effectively be able to abandon Google Docs / Drive or any other online office suite with a self-hosted solution that you control!
+See. Got to the point eventually. See you there.
+My, my, my... How far we&#39;ve come...
+https://youtu.be/EtuDS0ntaJY?t=6s
+The year was 2013. It was a very dark time for me. Google had abandoned me and took my Google Reader that I used to read my RSS feeds on.
+Google had stomped on my heart. I felt betrayed. The loss of my favorite news reader sent me spiraling down into a severe depression. I started listening to crappy emo music. I tried to write shitty poems. I started adopting cats. It was pretty ugly for a while.
+But I learned from that experience. I realized you can&#39;t just go around life aimlessly with your head in the clouds. Especially when said cloud doesn&#39;t belong to you! No longer would I simply rely on the charity of a large data collecting faceless corporation to make my life complete. I pulled myself back up onto my feet, grabbed a much needed shower, and learned to make my own clouds!
+Now my past endevours into home brewed solutions haven&#39;t always &#34;worked out as planned&#34; or were &#34;abominations of nature&#34;. But hey, 3rd...4th? ... 37th time&#39;s a charm!
+And you can too! Learn to stop relying on data slurping cloud services to do all the cool things you like to do on the interwebs. And with cheap hardware like the Raspberry Pi, the barrier to entry is lower than ever.
+With the rising level of uncertainty regarding our privacy these days...
+Scratch that. With the full on tin-foil hat level of paranoia Bob and I believe is necessary for modern living, we are starting our series of presentations that I&#39;ve just now decided to call &#34;The Nephology Project&#34;.
+At this Friday&#39;s STL2600 + DC314 meetup, we are going to walk through the centerpeice of this project: Nextcloud. If you don&#39;t already know what Nextcloud is, here is what I unapologetically copy and pasted from Wikipedia:
+&#34;Nextcloud is a suite of client-server software for creating file hosting services and using them. It is functionally very similar to the widely used Dropbox, with the primary functional difference being that Nextcloud is free and open-source, and thereby allowing anyone to install and operate it without charge on a private server.&#34;
+Deviating for our traditional &#34;stand up and jabber&#34; style, this next meeting will be more of workshop format. That means if you want to follow along then bring your own Raspberry Pi, external hard drive, and everything you need to run both of them. We&#39;ll walk you through step by step in setting up and securing your own instance of Nextcloud.
+Oh, and afterwards the meetup, Bob and I have plans to see Guardians of the Galaxy Vol.2, 10:00 at the MX theater downtown. Feel free to order tickets and join us if you want.
+Here is an unrelated cloud joke:
+https://youtu.be/YOOb_o06adA
+Don&#39;t worry. I haven&#39;t forgotten you all. Just acute procrastination ensuring that I wait as late as possible to sit down and write the description for the next STL2600 + DC314 meeting. And since the meeting is this Friday, I really should get one with it.
+Being your average hacker/man-child, I bought myself a new toy earlier this month. Bought to you by the folks at Hak5, who brought you great stuff like the Rubber Ducky and the Wi-Fi Pineapple, comes their latest and greatest; The Bash Bunny. Well I just had to be the cool kid and be the first person I know to buy one, electric bill be damned!
+Why is it called the &#34;Bash Bunny&#34;? I&#39;m pretty sure the fact that Easter is coming up is completely coincidental. The first part of the name is pretty obvious, because it uses Bash scripting. As far as I can tell for the second half of it&#39;s name is that you can use it to do the same kind of R-rated dirty fuzzy stuff that rabbits are notorious for, except to your computer. How does that apply exactly? Not sure, but it sounded pretty clever at the time.
+To put it simply, this thing is a swiss army knife of hands on system compromisation. (Is that a real word?) Embeded linux system, network device, HID, and mass storage device all rolled into one manly gun-metal gray pocket sized gadget. Between now and Friday, Bob and I will be trying to figure out how much cool stuff we can do with it. So show up to the next STL2600 + DC314 meeting and see how badly traumatized your system is when you just connect any random device to your USB.
+ATTENTION: None of the following has anything to do with any lovely, charming and wonderful, if not litigious, high end computer manufacturers.
+Please sit down. We need to have a very serious discussion about the seed-bearing abominations out there. That&#39;s right, you are old enough to learn the truth about froot...freut?...phruit? oh, it&#39;s &#34;fruit&#34;. (I dunno, that just doesn&#39;t look like it&#39;s spelled right to me.)
+Despite what they are teaching you in that school, the truth is:
+• Fruit unhealthy for you and your network, and it causes the cancers.
+• They&#39;re all full of cyanide and people die every day from it.
+• It&#39;s basically plant babies. Are you really going to eat plant babies just because your friends say it&#39;s cool?
+• Fruit is made by godless plants doing unholy things out of wedlock.
+• Fruit kills puppies.
+• Fruit is just bad and evil, okay? And only undead monsters eat it! (That&#39;s true. Seriously, look it up. Frankenstein&#39;s monster was a fruitarian.)
+• If it&#39;s not kept fresh, it turns bad quickly and corrupts your data!
+Now for next Friday, at the STL2600 + DC314 meeting, we&#39;ve arranged to have someone come in and explain to you the true dangers of fruit!
+Our guest will be demonstrating how easily Low Hanging Fruit can spoil the virtue of your network. The mistakes made when trying to protect the sanctity of your systems. And how to mitigate these weaknesses and keep things from going pear-shaped (PUNS!).
+(In English: This guy is going to come and demo his tool... er... A tool that automates the exploitation of &#34;low hanging fruit&#34; on your network.)
+*My phone making a Star Trek communicator beep, cause that&#39;s how I roll.*
+Oh look! I got a new email from the STL2600 + DC314 meetup group, and it reads:
+&#34;Do you have another meeting on the 3rd?&#34;
+Crap... I should probably get to posting that meetup. But not before I watch this cursor blink on my screen for a good 30 minutes first.
+*30 minutes later*
+Well given the topic of February&#39;s presentation, I was hoping to regale you with an amusing anecdote about one of the many times I was arrested.
+Unfortunately I&#39;m pretty lame and managed to stay out of trouble. The most severe interaction I&#39;ve had with law enforcement was some confusion over an umbrella attached to a sword handle. Or possibly I&#39;ve just managed not to get caught over the years. Either way, I&#39;ll refrain from admitting to anything incriminating in writing, and there&#39;s not enough time to effectively hatch any kind of criminal scheme before next Friday.
+So that&#39;s why instead we are bringing in a professional on the subject. And by &#34;professional&#34;, I mean Morgan, who offered to research and present on the subject himself. Thus allowing Bob and I a respite this month.
+But for the record, this is not a night in which we criticize law enforcement. Nor is it a commentary on social or political tensions. As always, this is an educational endeavor. The point is to learn how to interact with law enforcement in a way that will keep both yourself, and the men and women in blue, safe and secure.
+Now on a less serious, and barely tangentially relevant note, here is a clip from a fan remake of Robocop. One that happen I to come across this morning with excessive amounts of cardboard and puppets:
+https://youtu.be/i-9MbhK4tt8
+Going Commando!
+That&#39;s right, at the next STL2600 + DC314 meetup, Bob and I are going full commando!
+Whoa, don&#39;t get too excited there. Sorry to disappoint all of you, but Bob and myself will be wearing clean...ish undergarments throughout the presentation. Okay, well at least I will be wearing clean underwear (It&#39;s January after all). I make it a point to avoid all business regarding Bob&#39;s briefs.
+A short while back I was granted the authority to re-define certain modern colloquialisms, and make them cooler and more awesome. Shortly after I granted myself this authority, I decided &#34;going commando&#34; would henceforth mean to conduct any and all computing actions from a command line interface whenever possible. Isn&#39;t that so much better?
+Now come-on, stop complaining. We&#39;re hackers. Don&#39;t you want to look as cool as we do on movies with all the typie-typie carpal tunnel goodness? Besides, there are plenty of perfectly cromulent reasons to make use of the command line whenever possible. I&#39;m not going to tell you what they are right here. That would ruin the surprise during the presentation. It&#39;s totally not because I haven&#39;t made up those reasons yet.
+So next STL2600 + DC314, come by and learn how to do your every day computer tasks from a shell prompt. GO FULL COMMANDO and you&#39;ll learn how to browse reddit, post tweets, and anything else Bob and I can figure out between now and then... And probably mostly on Linux. Don&#39;t worry, a lot of this ports over to inferior OSes too.
+(pretty sure I used this pic already)
+So recently tried to setup an account with Blue Apron. (not a sponsor... Also, not to be confused with &#34;blue waffle&#34;. Don&#39;t google that. Seriously... I take no responsibility if you make that mistake after being so stringently warned.)
+Anyway, while trying to sign up for an account, it asked me to &#34;Enter Password&#34;. Weird, huh? So I did just what it asked and typed &#34;password&#34; into the blank space provided. Took me a few tries though because for some reason when started typing, it just put in a bunch of little stars instead. I thought maybe it was rating me on what a good job I did. But when I pressed hit the submit button, it gave me this red angry letters about how the word &#34;password&#34; is suppose to have upper case letters and numbers and stuff. Well that did make any sense at all! I mean, I just spelled the word &#34;password&#34; three times so far in this post... wait... Okay, I&#39;ve just typed the word &#34;password&#34; four times... dammit...
+So I&#39;ve typed the word &#34;password&#34; several times in this post. Okay, I used an upper case letter once, but there is for sure no numbers in any of them! I know I&#39;ve spelled it correctly too, because I didn&#39;t get that little red squiggly line underneath it when Internet Explorer tells me I&#39;ve spelled something wrong.
+As it turns out there is this new security trick that everyone is into. When you sign up for an account on a lot of websites, they now ask you to put in some nonsensical words or gibberish. Have you heard of this yet? So when you go back to the website and you want to use your account, you have to put in the &#34;password&#34; you put in when you signed up. And here&#39;s the great bit; If you keep it a secret, no one else can use your account! Like if I don&#39;t actually tell you my Bank of America account is &#34;12345&#34;, then you can&#39;t actually go to the website and send yourself money! How cool is that?!
+The only problem is making up new gibberish is a lot harder than it sounds. I only know so many words. Turns out there are some things you can do to make it easier.
+At the next STL 2600 + DC 314 meeting, Bob and I are going to discuss various methods for generating secure passwords. Everything from Diceware (hense the title of the post) to browser plugins, and anything else we can come up with when we meet this week to sort it all out.
+Honestly, I&#39;m surprised it took us this long to come up with this presentation topic.
+(obligatory)
+P.S. Note the start time has reverted back to 7:00. I had a few requests that we move it back to the old time, as it was more convenient for everyone.
+Hey there, boys and girls! For that matter; Hey there to any other diminutive that falls somewhere in the lexicon!
+Wait... hold on a second. One of my cats is being very insistent on being petted at this very moment... seriously...
+*scritch-scritch*
+*scritch-scritch*
+*scritch-scritch*
+*scritch-scritch*
+*scritch-scritch*
+...And with his mighty fangs empathy, he has informed me that he has been sated with a loving flesh-maul of kindness. Now back to business...
+It&#39;s the first week of the month and I&#39;ve managed an approximate 4 hours sleep in the past three days. Well, I think it&#39;s been around 4 hours. That numbery thing you do with other numbers is the... um... some-low-value-rst... thing to go when you are sleep deprived.
+Never mind that, though. I&#39;ve got about half of a Columbia worth of coffee in my right now, and I&#39;m all out of fucks to give. That can mean only one thing, right? This is the MeetUp description for the next STL2600 / DC314 meeting!
+*sips from a glass of lemonade*
+So this Friday, November 4th according to my phone, Bob is going to be doing the dancing monkey thing solo. The song he&#39;ll be doing his little pirouette to: &#34;Everything you&#39;ve every wanted to know about the HTTP protocol, but were too afraid to ask your sex-Ed teacher about.&#34;
+Side-note: Auto-correct has been a real pain senior discount moneymaker, if you catch my innuendo. But it was pretty damn amusing how insistent auto-correct was that the &#34;s&#34; be lowercase, and the second &#34;e&#34; be capitalized. Really puts a different spin on it when you treat &#34;Ed&#34; as a proper noun. But I digress.
+...I&#39;ve just dropped lemonade on the floor. Anyone know the Meowish phrase for &#34;No, cat. Please do not lick that liquid off the floor&#34;?
+Anyway, let&#39;s try to conduct this train of thought back towards Stay-on-topicsville. I did try to suggest to Bob, that the title for this song might be a smidgen too long. He got all belligerent with me about how I was stifling his creativity and that he won&#39;t let anybody censor his art. Actually, his exact words were &#34;I&#39;m not really going to be dancing, Joe. That was just some made-up shit you wrote,&#34; but I think we can all read between the lines.
+The point is he&#39;s been working really hard at it, and practicing a lot. He would take that HTTP protocol apart, label and sort all the little bits into bins, then put it all back together. Most of the time he didn&#39;t have any extra parts left over either!
+In actuality, the focus is about diving deep into a protocol. Any protocol, really. Get up in there, examine the dental work and check the CarFax. But since HTTP is a protocol that everyone has been exposed to on some level, it makes for a pretty good kiddie-pool to test your floaties in.
+Well those are pretty much the relevant bits. Especially the part where my cat wants to be petted. There will be a quiz on that part later.
+YELLOW: Hey, man. What have you BEE-een up to?
+JACKET: I haven&#39;t slept in 3 days because I&#39;m totally hacking this Gibson.
+YELLOW: Oh well you must BEE feeling quite the BUZZ.
+JACKET: Totally! A total n00b must&#39;ve setup this system. I practically walked right in!. Can&#39;t quite get to the good stuff, but I&#39;m bound to crack it any second.
+YELLOW: Well I&#39;ve got some bad news, then. Hope it doesn&#39;t STING too bad.
+JACKET: Why do keep doing that?
+YELLOW: I have no idea what you&#39;re BUMBLEing on about!
+JACKET: That! Why do you keep talking like that?!
+YELLOW: Well HIVE just been trying to pollenate my vocabulary a little bit. You don&#39;t have to BEE a drama QUEEN about it.
+JACKET: Dude, if you don&#39;t get to the point, I&#39;m going to start re-enacting Macaulay Culkin&#39;s final scene in My Girl...
+YELLOW: Ok. Fine. BEE a BUZZ kill. You&#39;re stuck in a Honeypot.
+JACKET: Are you calling me some kind of pudgy pooh bear or something?
+YELLOW: No! I mean it. You are stuck in a honeypot. It&#39;s like a booby-trap.
+JACKET: Sorry to break it to you, but you&#39;re not that good looking, don&#39;t have any boobs, and I&#39;m not a secret agent!
+YELLOW: Wrong kind of honeypot. Same idea though.
+JACKET: *sigh*... Ok. Listen... It&#39;s late. I&#39;ve been hacking at this thing for 3 days without sleep. The author is tired. I&#39;m pretty sure we&#39;ve completely lost anyone still reading this stupid thing. And Luke Cage isn&#39;t going to finish watching itself! Can we please get to the point?!
+YELLOW: Fine, fine! Don&#39;t get your antenna all in a twist!
+JACKET: I hate you...
+YELLOW: Ok, A honeypot is a system designed to fool intruders on a network into thinking they found that sweet sweet liquid gold!
+JACKET: Liquid gold being a metaphor for seemingly valuable access or data?
+YELLOW: Sure...I guess...Whatever... The point is though, the intruder just goes around in cirlces like some dumb drone. While the good top shelf royal jelly is locked up tight!
+Jacket begins sobbing. At the puns, or 3 days wasted, it doesn&#39;t really matter at this point.
+YELLOW: There, there, now... Look at the bright side. The folks running that honeypot you fell for? They probably got to learn all sorts of cool stuff about you while you were chasing your stinger.
+JACKET: I&#39;M NOT A BEE, DAMMIT! AND NEITHER ARE YOU!
+YELLOW: Just squash my dreams of feeling the wind through my cute little wings and the joy of dancing on a flower petal!
+Jacket gets up and storms out.
+YELLOW: Well since it&#39;s just us now. This Friday at the STL 2600 + DC 314 meeting, it&#39;s probably pretty obvious the topic will be Honeypots. The plan is to walk through how to quickly set one up. Demonstrate how it works to trap in unsuspecting intruders on your network. And what kind of useful data you can gather when someone falls for your honeypot!
+Oh, and of course here is the obligatory YouTube video that is barely remotely tangential to what we&#39;ll be discussing. Enjoy!
+https://youtu.be/WmVd9F1fW00
+This month, STL2600 + DC314 is hitting the road! Vegas, baby! Vegas!
+This months Bob and Joe will be attending DEFCON 24 in Las Vegas, NV! And we invite everyone of you to come with us! We can get smashed, let all of our devices get hacked and our passwords captured, then lose all our money at the casino!
+Well you can lose all your money. Personally, I&#39;ve got a system that can&#39;t lose!
+This does mean we don&#39;t have an actual presentation for this month. But if you can&#39;t make it to Vegas, that doesn&#39;t mean you don&#39;t have to miss out out on this months STL2600 + DC314 meeting. Chank has graciously volunteered to make sure the space is open.
+So anyone who wants to present, feel free to bring their own presentation! Make us jealous that we missed out on something cool because we had to go to this stupid conference. Or just come by and collectively talk shit about Bob and Joe while they aren&#39;t around.
+Had you all worried, didn&#39;t I? Well don&#39;t worry, you aren&#39;t going to have to go without your dose of 2600 + DC314 this month. We all know Daddy and/or Mommy needs his or her fix. We&#39;re not about to leave you hanging.
+I do have projects to get back too (busy busy busy) so we are going to keep this short and sweet. The topic this month will be facial detection software. Creepy-creepy-staring-into-your-soul facial detection software.
+Now here&#39;s a picture of Samuel L Jackson playing &#34;Guess Who&#34;.
+Sorry Travis. This probably wasn&#39;t as funny as wanted.
+Mr. A: &#34;Let&#39;s play hide and seek!&#34;
+Mr. B: &#34;OK. You hide first.&#34; Closes eyes and behind to count. &#34;...98...99...100! Ready or not, here I... Um, why are you just standing there?&#34;
+Mr. A: &#34;Shh... I&#39;m hiding in plain sight.&#34;
+Mr. B: &#34;No you&#39;re not. You are just standing there and staring at me. Franky, it&#39;s starting to creep me out a bit.&#34;
+Mr. A: &#34;It&#39;s called Steganography, jackass! Look it up!&#34;
+Mr. B: &#34;Yeah, that&#39;s absolutely NOT how that works.&#34;
+Mr. A: &#34;But the Internet says that Steganography means hiding in plain sight!&#34;
+Mr. B: &#34;Okay. Number 1, stop believing everything you read on the internet...&#34;
+Mr. A: &#34;It was a video.&#34;
+Mr. B: &#34;What?&#34;
+Mr. A: &#34;I didn&#39;t read it. The Internet said it in this video I saw. You know I can&#39;t read.&#34;
+Mr. B: *Sigh*. &#34;Fine, whatever. Number 1, stop believing every video you watch on the intern-&#34;
+Mr. A: &#34;Even the one with the two girls who take a cup and-?&#34;
+Mr. B: &#34;NUMBER 2! Steganography is about hiding messages or information within other messages. Not something you can do while playing hide and seek.&#34;
+Mr. A: &#34;Oh, like when you play the Beatles backwards and it&#39;s says &#39;Paul is dead&#39;?&#34;
+Mr. B: &#34;No... wait... Actually, yeah. That&#39;s pretty close.&#34;
+Mr. A: &#34;So does all my music want to kill people?&#34;
+Mr. B: &#34;I&#39;ll tell you what. At the next 2600 meeting there is going to be a presentation on what Steganography is, and how to use it. How about we go to that and get you can ask your questions there?&#34;
+Mr. A: &#34;Sure. But can we listen to NPR on the way there? I think my playlist has it in for me.&#34;
+On a previous episode of STL 2600 + DC314...
+PK gave an amazing presentation on The History of Drones.
+Some of us had to suffer through a business trip to Vegas.
+And Google couldn&#39;t spellcheck the word &#34;ornithoper&#34; correctly...
+Well I know everyone is dying to know what happens next, so I bring good news! PK is back to talk to us about drones again, now with 16% more drone goodness. Not only will this UNRATED special edition contain previously unreleased updates, secrets will be answered with a never before seen summary of Anti-drone technologies.
+So rush out Friday and revisit this classic tale again for the first time in 3D... Because, you know, it&#39;s real life and stuff.
+And Google still isn&#39;t spell checking &#34;ornithoper&#34; correctly.
+To get to the other site! Hilarious joke, isn&#39;t it Camilla?
+Was it really that bad? What was wrong with it?
+Come on. All I&#39;m asking for is a little constructive criticism. Is that too much to ask?
+Geeze. Fine. You don&#39;t have keep henpecking me about it, all right?!
+I&#39;m sorry. You&#39;re right. It was insensitive of me to use the h-word like that. I was just trying to come up with a clever joke for this 2600&#39;s cross site scripting presentation. I shouldn&#39;t have taken it out on you.
+What&#39;s cross site scripting? Well cross site scripting, or as I like to pretend the cool kids say, XSS, is that kind of computer security vulnerability thing that lets attackers to inject client-side scripts into web pages viewed by other users.
+Friday we were going to talk about how bad guys use them, then demonstrate how to find and exploit one. And if you bring a laptop with Chrome, and it has the Postman (
+https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en
+) app and TamperMonkey (
+https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
+) extension installed, you can play along with us! (Use the links to grab the extensions. There were a few iffy looking TamperMonkey&#39;s in the store)
+So does that sound like fun, Camilla?
+Um, sure. I guess you can sing a song. Just don&#39;t forget that Arch Reactor has moved, and we&#39;ll now be meeting at 2215 Scott Avenue, St. Louis, MO (
+https://www.google.com/maps/place/2215+Scott+Ave,+St+Louis,+MO+63103/@38.625357,-90.2168177,17z/data=!3m1!4b1!4m2!3m1!1s0x87d8b36f5d0c0705:0x18bae7bb504cdb7e
+).
+Take it away, Camilla!
+https://youtu.be/bRY-eAxHyqY
+### Update ###
+Some disappointing news for those of you looking forward to tomorrows presentation. Iowa Don has unfortunately been captured by Nazis, and consequently will not be available speak tomorrow. We have reached out to an archaeology professor that purportedly has experience with such matters to rescue Don. With any luck, he&#39;ll return safely and present his talk on malware in the near future.
+However, fear not. There is a backup plan! For the past two years I have been living and breathing all things Mobile Device Management ( or sometimes Enterprise Mobility Management, depending on how far up the buzzword food-chain your managers are ). I&#39;ll be demoing the system we use to manage and secure all the mobile devices on a massive scale. And of course with great power comes great responsibility, and there is a list of things one should never do with a system like this.
+I promise to do my best to make that a lot more interesting than it sounds.
+Sorry about the last minute changes.
+### Original Posting ###
+Our swashbuckling hero and renowned infosec professional, Dr. Iowa Don, returns in this action packed sequel! It all starts when he was off studying this thing... at this place... and then the bad guys came! Iowa had his whip and was all like *WHIPOOSH!* and the bad guys were all like &#34;Woah!&#34; and then ran away. But first the stole the bits and Iowa Don had to steal them back. But the bits were infected with viruses so Iowa say &#34;I hate snakes!&#34; and he kills it with fire. Then he of course gets the girl in the ends so everything goes &#34;Oh la la&#34; and the credits roll.
+But Friday, Don is going to come back and tell us all about the research he&#39;s been doing in reverse engineering malware. He&#39;s been suspiciously cagey about the details, because he tries to be all mysterious and shit. But I know he&#39;s been working hard on his special malware cuisinart he built just to do this research. And I&#39;ve never met a hacker who wasn&#39;t interested in the idea of reverse engineering malware. So whatever it is, I&#39;m sure it&#39;s going to be a good time!
+This tortured parody has kept me up for endless nights, ever since Let&#39;s Encrypt went public. It continually mocks me with browser warnings about self signed certificates on my web servers.
+(To music of &#34;Safety Dance&#34; by Men Without Hats)
+We can encrypt if we want to.
+We can leave HTTP behind.
+&#39;Cause your blogs don&#39;t encrypt, and if they don&#39;t encrypt
+Well, they&#39;re no blogs of mine.
+Say, we can browse where we want to
+And middle man will stay blind
+And we can GET content type from out of this world
+Leaving the NSA far behind.
+S-S-L-T-L-S
+Let&#39;s Encrypt!
+Well I say &#34;No more!&#34; Let&#39;s free ourselves from this new wave cacophony. Let&#39;s regain a peaceful nights sleep knowing our servers are not being eavesdropped. Let&#39;s Encrypt!
+At February&#39;s 2600 meeting we&#39;ll be reviewing Let&#39;s Encrypt, the free, open, and non-profit certificate authority that has recently entered it&#39;s public beta. Come learn how to setup a signed certificate on your server. As well as how to script your certificate&#39;s renewal and why you want to automate this process.
+https://youtu.be/hpzXwM2Zhxs
+So this month I finally got a 3D printer that I ordered about 9 months ago. (Evidently these things need time to gestate.) So what do I do as soon as I get it? Same thing I do with any new toy I spent too much money on, I try to figure out how much trouble I can get myself into with it.
+Now given we&#39;ve all been pretty busy with the holidays and that this next 2600 is on January 1st where everyone is hopefully hung over from the night before, we are going to do things a bit different. The plan is to have a laid back &#34;show and tell&#34; style meetup this month.
+I&#39;ll see how many things-I-shouldn&#39;t-print that I can successfully make off my new toy.
+Anyone else that has the means should do the same.
+If you don&#39;t have the means, the bring some info on it and we&#39;ll see if we can give it a try. Or if you have something unrelated, but still damn interesting, bring that too.
+Did you find Waldo? Those puzzles are tougher than I remember. Did you know Waldo had a girlfriend named Wilma, who he eventually dumped for her twin sister Wenda? Who knew Waldo was such a cad?!
+Sorry, got off topic a bit. So Bob and I, like Waldo, have returned from our travels to far off lands. We encountered many friendly Tennesseeites, who taught us much of their Tennesseecian ways. Knowledge which we have brought back with us to share with our 2600 brethren.
+For example: Did you know that if you are at a convention, you can attract the attention of other hackers and geeks by using antennas. Seriously! All you have to do is find a table in a public area, then start putting up antennas. I recommend at least 4. In short order an inquisitive group will start to gather around you. They will quickly assume you are an expert in radio technology. And when you protest otherwise, it will be assumed that you are the one who gave the presentation on the subject earlier. A lack of resemblance to the actual presenter, be damned!
+That&#39;s pretty much what happened to Bob and I. After the panels had finished and everyone was cracking open beers, we started getting curious about the radio equipment we had with us, but haven&#39;t had a chance to experiment with. Next thing we knew, we had a crowd trying to pick our brains. And seeing as they weren&#39;t taking &#34;We don&#39;t know anything. We&#39;re n00bs!&#34; for an answer, we were left with no other choice but to actually figure out how to make these things work. Sure enough, several beers and several hours later, Bob and I had successfully transmitted an audio recording from one side of the table, to the other, using nothing more than a few thousand dollars in equipment.
+Well we&#39;ve been kind of hooked on it since. We&#39;ve both been tinkering with programming software defined radios every since. I&#39;m finally getting some use out of an overpriced black box I bought over the summer. And Bob can&#39;t stop listening to old guys complain about Obama on the Ham Radio bands.
+So December&#39;s 2600 meeting is going to be focused on Software Defined Radios and how amazingly versatile they are. We&#39;ll talk getting started with cheap $20 RTL-SDR dongle. What awesome things you can do with one. And we&#39;ll demo as much stuff as we can. Entirely dependent on what Bob and I can manage to get to work reliably over the next week.
+Because it was an awesome movie and is about hacking radio, that&#39;s why! TALK HARD, HARRY!
+Renowned infosec professional and expert in the occult, Dr. Iowa Don, is hired by the U.S. Government and tasked with tracking down terrorists (possibly Nazis) that are posing as 16-year old girls on social media.
+Follow his adventures as Iowa Don... umm... dons his fedora and bullwhip, and with a peculiar look from his superiors, ventures into the jungles of the Internet.
+Come hear how he tricked Hitler or some other bad guy on Twitter with the help of a night club singer and some 12-year old asian kid.
+I think there was something about a magic cup and his father being kidnapped as well, but I&#39;m not positive. The government assured me that their top men were on it. I ask who. It&#39;s their TOP MEN... What more can you ask for?
+I just know this is going to be some in your face...book...action!
+(Don&#39;t judge me by my puns.)
+It could be him. You don&#39;t know!
+Welcome, Friends.
+This is the second installment of our &#34;Not Presented By Joe or Bob&#34; series, in which Auntie PK is going to read us all a bed time story. An adventurous tale in a magical world where giant machines fly free for thousands of miles. And of the great secrets they observed in their travels.
+That&#39;s right, PK is going to present for us, The History of Drones. So get cozy next to the fireplace, and get ready to learn how a miraculous unaided ornithopers became the engaging, and sometimes mischievous, gadgets we enjoy today.
+Finally, the next 2600 meetup is posted, and we&#39;ll be seeing a presentation on FinalKey (
+http://finalkey.net/
+).
+The final objective with the FinalKey is to finally build a hardware based password manager that is finally open source. Colin &#34;The Finalist&#34; Faulkingham will finally share with us his final results in finally attempting to replicate the FinalKey project. Let us finally learn from his experience, as he finally shares any final thoughts and advice for those looking to finally build a FinalKey of their very own. And finally, we&#39;ll learn if he was finally successful in his endeavor, or will the project meet it&#39;s final demise.
+So see you all Friday, the final day of this work week, for this next, but far from final, 2600 meeting.
+In a world...
+where presentation schedules don&#39;t always go according to plan...
+A 2600 meeting hinges on the brink of disaster...
+Two men attempt the impossible...
+BOB
+JOE
+And save the next 2600 by throwing a together a lecture at the last possible moment..
+STL 2600 PRESENTS
+BLOCKBUSTER HACKS!
+Digital Adventures from a Cinematic World.
+Opening this Friday...
+Bob and Joe, sitting around a table with their laptops, trying to brain storm their next hack.
+It&#39;s not going too well. We are out of ideas. Not a single one. Neither has said anything in hours. If it wasn&#39;t for the screensavers kicking on, they would just being having an awkward staring contest. That&#39;s because as a prank, Bob permanately set a portrait of himself Joe&#39;s wallpaper, forcing Joe to do the same in retaliation.
+The silence has started to take it&#39;s toll on Joe. No longer able to keep awake, he falls unconscious with his head slamming against the table.
+*Pshhhkkkkkkrrrr​kakingkakingkakingtsh​chchchchchchchcch*​
+Startled, Bob asks, &#34;Did you just fall on your cat?&#34;
+&#34;Huh?&#34;
+&#34;That noise, what was that?&#34;
+&#34;What noise?&#34;
+Bob proceeds to mimic the sound,
+https://www.youtube.com/watch?v=p8XKhCfsTts
+Realizing what Bob is referring to, Joe answers, &#34;Oh, no. My computer is dialing numbers. There&#39;s this computer company is coming out with these amazing new games in a couple of months. The programs for them are probably still in their computer.So I told my system to search for other computers in Sunnyvale, California. They answer with a tone that other computers can recognize. Hear?&#34;
+&#34;You&#39;re calling every number in Sunnyvale?&#34;
+Joe nods.
+&#34;Isn&#39;t that expensive?&#34; Bob continues.
+&#34;Oh, there are ways around that!&#34; Joe retorts.
+&#34;You can goto jail for that!&#34;
+&#34;Only if you are over 18!&#34;
+&#34;Dude... We&#39;re in our mid-30&#39;s. Anyway, Is this going to take a long time? I&#39;d like to get my grade changed.&#34;
+&#34;What?&#34;
+&#34;Nevermind. This is brilliant! And surprisingly so relevant still!&#34; Bob exclaims, &#34;Do you think anyone has ever thought of doing this before?&#34;
+Joe shrugs. &#34;I dunno. Who cares? Wanna go watch WarGames again?&#34;
+&#34;Sure...&#34;
+So to clear up any confusion. We&#39;ll be cover War-Dialing techniques of old, as well as how it&#39;s still relevant today. I&#39;ll be demonstrating current techniques by making use of anonymous voip services to not only find modems, but plenty of other interesting stuff you can find behind phone numbers these days.
+How many time&#39;s has this happened to you?
+It&#39;s lunchtime. You tried ordering a taco from the food truck. A chicken taco, extra chipotle sauce, with refried beans on the side. As soon as you take a bite out of your taco, you feel that subtle but familiar screech of teeth against plastic. You look down only to find a roll of microfilm in your taco... again!
+Naturally being quite put off that your lunch has been disturbed, you bang on the window of the food truck until a man in a nice black suit leans out. &#34;Something wrong?&#34; he asks.
+&#34;Damn right, something is wrong!&#34; You say as I toss my film garnished taco on the counter. &#34;What are you trying to pull, here?&#34;
+&#34;Oh, I&#39;m terribly sorry! Is there something else you&#39;d like to order instead?&#34;
+&#34;Think you can handle a quesadilla instead?&#34; The man throws you a wink from behind his mirrored sunglasses and retreats back into the truck.
+He returns a moment later with a fresh quesadilla hot off the grill. You grab it and try to take a big ol&#39; bite. The awful thing tastes like laminated paper. You check inside the tortilla and find a passport dripping in hot cheese. Now you&#39;re pissed. That picture doesn&#39;t even look anything like you!
+You bang on the window again until the man in the truck returns. &#34;Is there something wrong with the package?&#34; he asks.
+Blasted secret agents and their code phrases. It&#39;s almost enough to make you switch back to packing a couple of PB&amp;J sandwiches for lunch. If only the color of raspberry jam didn&#39;t trigger flashbacks of the time you served in during the cold war.
+Frustrated you yank the G-man close by his matching black tie, look him straight in his reflective aviators and sternly say, &#34;The duck... flies... at midnight...&#34;
+Embarrassed, the man retreats into the window one last time to bring you the deluxe nacho platter with extra sour cream. Finally! And by the stars and stripes if it&#39;s not the tastiest morsel from south of the border that you&#39;ve ever tasted.
+So do you want to prevent awkward mistakes like this from happening in the future? Come to the next 2600 meeting and learn about making use of dead drops to covertly share information without the worry of embarrassing mix-ups do to lousy grammar and punctuation. Don&#39;t forget to invite your friends from you favorite three-letter agencies! Heck, invite your friends from your favorite four and five letter agencies too! The more the merrier! (Obviously I&#39;m referring to the letters.)
+One evening Bob and I were sitting around feeling a little hungry. Hungry to hash the hexes of high-complexity passwords. But there was just one problem... Our hardware was so weak and lame that my younger brother recently whooped our asses at a CTF with his speak-n-spell.
+There was seemingly no hope in sight. Then, just as Bob kills off his last bowl of cereal, he jumps up with a seriously righteous idea. &#34;We can score one of those Gibsons, man,&#34; he blurts out. &#34;You know, supercomputers they use to like, do physics, and look for oil and stuff?&#34;
+For some reason Bob has this weird form of tourette&#39;s where he exchanges the word &#34;gibson&#34; for &#34;Amazon Web Services&#34;. Fortunately I&#39;m use to this, so I knew what he meant.
+At this point I smelled something burning. I look over at my cluster of 386&#39;s connected by token-ring. I was able to hash out the passwords for LOVE, SEX, SECRET, and GOD before it overheated died. I look back at Bob say &#34;Let&#39;s go for it.&#34;
+First thing was first, naturally. We have to setup an account with Amazon AWS. Here is a completely legit and accurate step by step tutorial of Bob and I setting up AWS. Remember, this actually happened!
+https://www.youtube.com/watch?v=SqjoSfDKnEQ
+Now if you want to learn how to use a large cluster of machines on Amazon Web Services to crack passwords with your favorite password cracker, you&#39;ll have to show up to the next 2600 meeting. Because, really, that&#39;s the point of this now, isn&#39;t it?
+And while you are there, you are more than welcome to play along. Though to do so, you&#39;ll need to have some familiarity with Python, an AWS account, and a few bucks to throw at Amazon. The greasy gear gets the squeaky cheese after all, or something like that.
+Startling secrets teach you hypnosis! Revealing anchcient manuscripts tell of secret techniques used to put your subjects in a trance without their knowledge! Fast and easy! Say the secret word and they are ready to do as you command! With the magic of hypnosis you can strengthen your memory, overcome bad habits, make money easily, grant wishes, ride unicorns, and become irresistable to women! Money back guaranteed!
+At least that&#39;s what was promised in the back of my comic book.
+If you want to find out for yourself, then just look into my eyes and listen carefully to the sound of my voice...
+You are getting sleepy...
+You are falling into a deep deep sleep...
+When I snap my fingers you&#39;ll have the incredible desire to attend the next 2600 meeting.
+Could 2015 finally be the year for Linux on the desktop? Maybe we&#39;ve been going about this all wrong. Maybe what we need is selective cross-breeding to create a superior Linux for the desktop. Some hard core penguin on penguin action that will result in the Kahn Noonien Singh of Linux distros. &#34;Impossible&#34; you say? There is one man who will disagree with you.
+Tom/Thom/Tahm is going to speak about his efforts towards selective Linux breeding. How in a stroke of either genius or madness, he locked TAILS and Kali Linux in a bedroom, lit a few candles, and put on some smooth jazz. What kind of monstrous abomination could spawn from such an unholy union? He calls it &#34;Attack Vector Linux&#34; and he is unleashing upon the world.
+We will have a priest with holy water on standby...
+All I want for Christmas is my ubertooth.
+For bluetooth spoof,
+see my ubertooth!
+Gee, if I could only have my ubertooth,
+and watch for packets saying
+&#34;Merry Christmas.&#34;
+In the spirit of the season, Arch Reactor received an Ubertooth a gift. The condition of the donation was that we do a 2600 presentation on the tool. With what I&#39;m sure was with a certain colorful exuberance, I accepted the arrangement.
+The Ubertooth is an opensource platform for analysis of Bluetooth traffic. More accurately it&#39;s a Magical Bluetooth Fairy that grants wishes if you are a good boy or girl. Trust me, after a months of tinkering, I&#39;m only half kidding. The Ubertooth was initially developed a few years ago by Mike Ossmann of Great Scott Gadgets, the man that also brought us the HackRF. The goal was to fill a need for affordable bluetooth analysis tools. While the Ubertooth fills this gap, there is certainly a bit of a learning curve compared to other 2.4 wireless protocols like[masked]. Some come to the next 2600 meeting and watch me fumble about with this device. We&#39;ll proceed together as n00bs into the unexplored world of Bluetooth Packets!
+Hate having to give out your address and phone number just to get a the occasional fifty-cent off coupon for a Hungry Man dinner? Or perhaps you don&#39;t want to have to register an account and sign-up to be spammed to read a white paper on the latest funny-named security exploit. Well we are going to give you some tips on creating a throw away alias you can use in most everyday situations.
+http://youtu.be/iRTbPZz0UMI
+Now this is most certainly not a &#34;How To&#34; on creating a fake identity so you can go out on a crime spree. Nor is this going to be about committing identity theft. If anything, it&#39;s quite the opposite. We are just providing a few tips on playing make-pretend that will help you regain a bit more of your privacy in the digital age. It&#39;s just as important to be a law abiding citizen with an alias as it is when using your real name. To be Frank (or, given the subject matter, John... or Terry... or Pumpkin Escobar) committing crime using an alias like the one&#39;s we&#39;ll be making will just land you in a heap more trouble.
+So if you think this is going to lead you to &#34;champagne wishes and caviare dreams&#34;, that&#39;s not likely to happen. But we&#39;ll do our best to help you make sure no one has ever heard of you and have fun doing so.
+Plus if all goes well, Bob and I might have some stories to share... :)
+...Because it&#39;s not. Anyone&#39;s business, that is... On... how you... um... internet... *cricket noises*
+Keeping your internet usage habits private doesn&#39;t have to be difficult. With a properly configured travel router, you can make use of all the free public wifi you want. And you feel completely comfortable knowing that someone can&#39;t just use a wifi pineapple to listen in on your FriendFace conversations.
+At the next 2600 meeting, Bob and I will be talking about a couple of the options around in portable anonymous routing. Use one of these options when you connect to the internet, and you can be cool like Whistler:
+https://www.youtube.com/watch?v=3VlyZIywY9c
+http://youtu.be/GZA29AhiP6Y
+WiFi Pineapple that is...
+Starting out as a cheap consumer router with custom firmware, the Pineapple first gaining popularity on the internet video series Hak5. Now the project is it&#39;s 5th revision, sporting custom built hardware, extensible open software, and a large online community providing support. You can read up on the WiFi Pineapple at the project&#39;s page: 
+https://wifipineapple.com/
+At the next 2600 meeting, Bob and I will be demonstrating some basic WiFi Pineapple usage. The WiFi Pineapple is a portable wireless honeypot with a swiss army knife of tool-kits for penetration testing, or just harmless humorous trouble-making. We&#39;ll show you how to execute man-in-the-middle attacks to spoof DNS, strip out SSL from login pages, and capture cookies to hijack a session. We might even do a little RickRolling too.
+I don&#39;t know who they are.
+I don&#39;t know what they want.
+But what I do know is they have a very particular set of skills...
+Skills they have acquired over a very long career.
+Skills that make them a nightmare for people with SCADA systems...
+At least that&#39;s what the man on the phone said.
+SOMEONE will be presenting on Supervisory Control And Data Acquisition systems at the next 2600 meeting.
+Could be a well known Irish born actor. It might be Big Bird.
+That someone will actually be Mike Toecker.
+Mike Toecker, an engineer and computer security researcher in the area of industrial control system security, will be presenting at the next 2600 meeting. He&#39;ll be talking about the current state of control system security, common systems and vulnerabilities, and where to go from here.
+Industrial control systems (or ICS) are used in large industrial facilities to manage and control chemical processes, electricity production, natural gas facilities and others. Consider this a 101 for ICS Security.
